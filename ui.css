@@ -1,0 +1,50 @@
+.navbar-nav{
+    width: 100%;
+    padding: 0px 430px;
+}
+.container-fluid{
+    margin-top: 15px;
+}
+.head{
+    font-size: 71px;
+
+}
+.p{
+    font-size: 20px;
+    width: 450px;
+    /* margin-left: ; */
+}
+.bt{
+    display: flex;
+}
+.s1{
+    display: flex;
+}
+.bg-black{
+    margin-bottom: 100px;
+}
+/* .pos{
+    position: absolute;
+
+    text-align: center;
+    margin-top: -27rem;
+    margin-left: 31rem;
+} */
+/* .p1{
+    position: absolute;
+}
+.p2{
+    position: absolute;
+    margin: 0rem 35rem;
+} */
+/* .p3{
+    position: absolute;
+    padding: 5px 17px;
+    margin: 23rem 42rem;
+    border-radius: 20px;
+    background-color: white;
+    border: none;
+} */
+.pp{
+    position: relative;
+}
