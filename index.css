@@ -3,7 +3,7 @@
     padding: 0px 430px;
 }
 .container-fluid{
-    margin-top: 15px;
+    /* margin-top: 15px; */
 }
 .head{
     font-size: 71px;
@@ -47,4 +47,7 @@
 } */
 .pp{
     position: relative;
+}
+.bg-black text-white{
+    margin-bottom: 80px;
 }
